@@ -909,7 +909,7 @@
   "call.82a.dialog.gas3": "{請關閉氣閥} 我需要您找這些工人幫忙。快去找出這塊區域的總氣閥，然後關掉它。",
   "call.82a.dialog.gas4": "好的，好的，我知道它在哪。我現在就去關掉它。",
   "call.82a.dialog.evacuate1": "{請撤離} 先生，麻煩組織區域內的全部人撤離然後等待我們的消防單位到達。可以嗎？",
-  "call.82a.dialog.evacuate2": "好的我知道了，謝謝您！",
+  "call.82a.dialog.evacuate2": "好的. . . . . . . . . . . . . . . . . . . . . . . 他們撤離了.",
   "call.82a.dialog.end": "...",
   "call.82a.dialog.reminder": "您好？",
   "call.82a.dialog.reminder2": "我們需要幫助，火災正在蔓延！",
