@@ -3033,7 +3033,7 @@
   "call.gen19.aar.noemergency": "胃痛不會突然出現，報案人應該去看醫生。沒有必要派出救護車。",
   "call.gen19.aar.alco": "胃痛是由酒精引起的，報案人不需要醫療救助。",
   "call.gen19.aar.sended": "接線員決定派出一輛救護車。",
-  "call.gen19.aar.ignore": "",
+  "call.gen19.aar.ignore": "接線員決定這起案件沒有緊急到需要派出緊急醫療服務。",
   "call.wa_b3.title": "可疑爆炸物",
   "call.wa_b3.scene.caller": "保安 (報案人)",
   "call.wa_b3.scene.bomb": "汽車炸彈",
