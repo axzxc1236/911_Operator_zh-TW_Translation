@@ -4657,7 +4657,7 @@
   "call.det3burnt.dialog.waitamb": "好，我等著救護車。",
   "call.det3burnt.dialog.water": "{用水}用一般的水去沖他，但請小心。",
   "call.det3burnt.dialog.splash": "好！ . . . . . . . . . . . . . . . . . . . . . . . . . 倒了一桶水... 羅恩，再給我一桶...",
-  "call.det3burnt.dialog.suprise": "如果他沒有再燒傷，這樣做就夠了！,
+  "call.det3burnt.dialog.suprise": "如果他沒有再燒傷，這樣做就夠了！",
   "call.det3burnt.dialog.easy": "好...好，現在他在發抖...他發生了什麼事？",
   "call.det3burnt.dialog.shock": "{是熱休克}他進入了熱休克狀態，立刻用東西把他蓋住，救護車馬上就到了。",
   "call.det3burnt.dialog.shock1": "快點，他快死了！",
