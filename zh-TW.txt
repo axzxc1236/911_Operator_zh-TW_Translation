@@ -1,4 +1,4 @@
-{
+﻿{
   "addressformat": "{street} {no}",
   "lang.pl-PL": "Polski",
   "lang.en-US": "English",
@@ -3693,7 +3693,7 @@
   "call.bos3polbeat.dialog.2": "快派一輛救護車！我男朋友被打了！",
   "call.bos3polbeat.dialog.where": "{你在哪？} 你現在在什麼地方？",
   "call.bos3polbeat.dialog.how": "{為什麼會發生這事？} 當時具體發生了什麼？",
-  "call.bos3polbeat.dialog.injuries": "{她還有呼吸嗎？} 好的。你的男朋友還有氣嗎？",
+  "call.bos3polbeat.dialog.injuries": "{他還有呼吸嗎？} 好的。妳的男朋友還有氣嗎？",
   "call.bos3polbeat.dialog.protests": "我們在 [[ADDRESS]] 的抗議現場！",
   "call.bos3polbeat.dialog.details": "{具體在哪？} 我們如何在人群中找到你？",
   "call.bos3polbeat.dialog.monu": "我們在噴泉旁邊，你們從很遠就能看到這。",
