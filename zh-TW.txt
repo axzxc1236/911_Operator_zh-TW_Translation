@@ -1,4 +1,4 @@
-﻿{
+{
   "addressformat": "{street} {no}",
   "lang.pl-PL": "Polski",
   "lang.en-US": "English",
